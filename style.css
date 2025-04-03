@@ -4,3 +4,98 @@
 body{
     background-color: white;
 }
+body {
+    font-family: Arial, sans-serif;
+    background-color: #d4edda;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #1d1d1d !important;
+}
+
+.navbar-brand {
+    color: #fff !important;
+    font-weight: bold;
+}
+
+.container {
+    max-width: 900px;
+    background: #ffffff;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #000;
+    font-size: 28px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+p {
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.idh-img {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.text-center {
+    text-align: center;
+}
+.navbar {
+    background-color: #000 !important;
+}
+
+.navbar .nav-link,
+.navbar .navbar-brand {
+    color: white !important;
+}
+
+.navbar .nav-link:hover {
+    color: #ccc !important;
+}
+footer {
+    background-color: #1d1d1d;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.footer-icons {
+    text-align: right;
+    margin-top: 10px;
+}
+
+.footer-icons img {
+    width: 24px; /* Ajuste o tamanho dos ícones */
+    height: auto;
+    margin-left: 10px;
+}
+p {
+    color: black; /* Define a cor do texto como preto */
+    font-size: 16px; /* Ajusta o tamanho da fonte */
+}
+
+h3 {
+    color: black; /* Deixa os títulos também em preto */
+    font-weight: bold; /* Deixa os títulos mais destacados */
+}
+
+
+
+
